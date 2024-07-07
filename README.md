@@ -1,6 +1,7 @@
 # js-lab-35
 ### Lab35 Conditiona: Refractor4
-เปลี่ยน if-else ข้างล่างให้อยู่ในรูปของ Ternary Operators
+เปลี่ยน if-else ข้างล่างให้อยู่ในรูปของ Ternary Operators  
+หริณ มาเบ้า
 
 ```JavaScript
 let login = prompt('Enter username');
